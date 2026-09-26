@@ -1,1 +1,1 @@
-PAPER_URL_TO_BE_SET_AFTER_GITHUB_PAGES_DEPLOYMENT
+https://github.com/2k24csaiml1e2411265-wq/google-search-discoverability-capstone
